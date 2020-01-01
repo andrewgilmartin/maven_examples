@@ -40,7 +40,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.andrewgilmartin.App</mainClass>
+                            <mainClass>com.andrewgilmartin.gizmo.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

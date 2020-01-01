@@ -1,4 +1,4 @@
-package com.andrewgilmartin;
+package com.andrewgilmartin.gizmo;
 
 import static org.junit.Assert.assertTrue;
 
